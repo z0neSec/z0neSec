@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me
-👋 I'm **David Ani**, a cybersecurity student and software developer focused on building secure, reliable backend systems and modern web applications. I combine practical security knowledge with backend engineering to design and deliver resilient APIs and services, and I enjoy solving complex problems that sit at the intersection of security and software design.
+👋 I'm **David Ani**, a software developer and cybersecurity student focused on building secure, reliable backend systems and modern web applications. I combine practical security knowledge with backend engineering to design and deliver resilient APIs and services, and I enjoy solving complex problems that sit at the intersection of security and software design.
 I specialize in building products that merge **Web2 scalability** with **Web3 innovation** - simplifying blockchain adoption and empowering developers.
 
 🧩 **Currently Exploring:**  
