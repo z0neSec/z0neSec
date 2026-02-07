@@ -17,7 +17,7 @@ I specialize in building products that merge **Web2 scalability** with **Web3 in
 - Contributing to open-source to refine my developer experience  
 - Documenting my journey & sharing knowledge through content  
 
-💡 **Fun fact:** I love **gaming 🎮** and **watching movies 🍿** when I’m not coding.
+💡 **Fun fact:** I love **gaming 🎮** and **watching anime 🍿** when I’m not coding.
 
 ---
 
@@ -28,7 +28,7 @@ I specialize in building products that merge **Web2 scalability** with **Web3 in
 
 ---
 
-## 🧭 Current Focus (2025)
+## 🧭 Current Focus (2026)
 > 💬 *“Building. Contributing. Documenting.”*
 
 - Enhancing my expertise through open-source participation  
