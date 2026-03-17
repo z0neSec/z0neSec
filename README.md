@@ -34,7 +34,7 @@ I specialize in building products that merge **Web2 scalability** with **Web3 in
 - Enhancing my expertise through open-source participation  
 - Exploring advanced Web3 frameworks & scalable blockchain tools  
 - Building user-centered applications with clean architecture  
-- Advanced system and application security (threat hunting, secure design patterns).
+- Advanced system and application security (threat hunting, secure design patterns)
 - Cloud security and hardened, scalable backend architectures.
 - Observability and resilience for distributed systems.
 
