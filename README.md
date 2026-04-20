@@ -39,13 +39,3 @@ I specialize in building products that merge **Web2 scalability** with **Web3 in
 - Observability and resilience for distributed systems.
 
 ---
-
-## Skill Focus (Dynamic)
-| Area | Stack | Currently Mastering |
-|------|--------|---------------------|
-| Frontend | React, Next.js, TailwindCSS | TypeScript, UI Animations |
-| Backend | Node.js, Express.js, MongoDB | API security, Auth, Caching |
-| Web3 | Solidity, IPFS, WalletConnect | Smart Contract Testing |
-| Tools | Git, Docker, Postman, Figma | CI/CD & DevOps basics |
-
----
