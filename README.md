@@ -25,5 +25,3 @@ I specialize in building products that merge **Web2 scalability** with **Web3 in
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,solidity,git,github,vscode,figma,ipfs,vercel,netlify,python,postman,docker" />
 </p>
-
----
