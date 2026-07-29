@@ -17,8 +17,6 @@ I specialize in building products that merge **Web2 scalability** with **Web3 in
 - Contributing to open-source to refine my developer experience  
 - Documenting my journey & sharing knowledge through content  
 
-**Fun fact:** I love **gaming** and **watching anime** when I’m not coding.
-
 ---
 
 ## Tech Stack & Tools
